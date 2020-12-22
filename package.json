@@ -21,7 +21,11 @@
     "url": "https://github.com/SBastian7/react-test/issues"
   },
   "homepage": "https://github.com/SBastian7/react-test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  },
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
